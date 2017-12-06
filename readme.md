@@ -1,3 +1,4 @@
+![Route Flush Logo](https://github.com/nkotov/route-flush/blob/master/icon.png?raw=true "Route Flush")
 ## Route Flush
 This fixes an issue with routing after using OpenVPN on macOS.
 
